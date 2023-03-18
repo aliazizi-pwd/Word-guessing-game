@@ -50,7 +50,7 @@
     font-family: 'Comic Sans MS', sans-serif;
  }
  
- #letters div.used {
+ #letters div.hovers {
     background-color: #db4747;
     color: #ffff;
     opacity: 0.5;
@@ -63,4 +63,6 @@
     text-align: center;
     font-size: 1rem;
     display: none;
+    padding-top: 40px;
+    color: red;
  }
